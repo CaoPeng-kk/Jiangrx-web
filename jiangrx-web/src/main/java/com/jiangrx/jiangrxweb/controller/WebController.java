@@ -13,7 +13,7 @@ import java.time.LocalDateTime;
 
 /**
  * @Author: caop
- * @Description: 交易信息Controller
+ * @Description: 交易信息Controller  (http://localhost:8000/Transac  前端工程访问此URL)
  * @Date: Created in 22:45 2020/6/8
  */
 
